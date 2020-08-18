@@ -92,7 +92,7 @@ if [[ "$BASE" == "ackermann" ]]
 fi
 
 cd $HOME/linorobot_ws/src
-git clone https://github.com/linorobot/linorobot.git
+git clone https://github.com/enrique-esquivel/linorobot.git
 git clone https://github.com/linorobot/imu_calib.git
 git clone https://github.com/linorobot/lino_pid.git
 git clone https://github.com/linorobot/lino_udev.git
